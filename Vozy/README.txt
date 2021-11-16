@@ -1,11 +1,6 @@
 
 TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
-
-Websites: https://gettemplates.co https://freehtml5.co/
+VOZY
 
 
 CREDITS:
@@ -31,6 +26,4 @@ http://markdalgleish.com/projects/stellar.js/
 Lightcase
 https://cornel.bopp-art.com/lightcase/
 
-Demo Images:
-http://unsplash.com
 
